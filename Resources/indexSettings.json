@@ -1,0 +1,14 @@
+{
+  "inputPath" : "0-Corpus/documents.trectxt",
+  "indexPath" : "indexFile",
+ 	"fileType":"trectext",
+ 	"server" : true,
+  "stemmer" : ["porter"],
+  "tokenizer" : {
+    "fields" : ["text","head"],
+    "formats" : {
+      "text"    : "string",
+      "head"    : "string"
+    }
+  }
+}

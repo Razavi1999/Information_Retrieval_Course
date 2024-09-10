@@ -1,0 +1,55 @@
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=1 $queryPath  > $runPath/runDri-01.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=10 $queryPath > $runPath/runDri-02.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=20 $queryPath > $runPath/runDri-03.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=30 $queryPath > $runPath/runDri-04.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=45 $queryPath > $runPath/runDri-05.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=56 $queryPath > $runPath/runDri-06.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=67 $queryPath > $runPath/runDri-07.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=78 $queryPath > $runPath/runDri-08.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=87 $queryPath > $runPath/runDri-09.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=100 $queryPath > $runPath/runDri-10.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=110 $queryPath > $runPath/runDri-10.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=100 $queryPath > $runPath/runDri-11.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=130 $queryPath > $runPath/runDri-11.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=200 $queryPath > $runPath/runDri-12.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=1400 $queryPath > $runPath/runDri-13.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=2000 $queryPath > $runPath/runDri-1a.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=1600 $queryPath > $runPath/runDri-1b.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=2400 $queryPath > $runPath/runDri-14.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=3400 $queryPath > $runPath/runDri-15.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=3500 $queryPath > $runPath/runDri-16.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=3600 $queryPath > $runPath/runDri-17.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=3700 $queryPath > $runPath/runDri-18.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=3800 $queryPath > $runPath/runDri-19.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=Dirichlet --mu=4700 $queryPath > $runPath/runDri-20.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.15 $queryPath > $runPath/runJMS-1.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.25 $queryPath > $runPath/runJMS-2.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.33 $queryPath > $runPath/runJMS-3.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.45 $queryPath > $runPath/runJMS-4.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.56 $queryPath > $runPath/runJMS-5.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.62 $queryPath > $runPath/runJMS-6.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.75 $queryPath > $runPath/runJMS-7.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.853 $queryPath > $runPath/runJMS-8.txt
+# ./galago batch-search --requested=100 --index=$indexPath --scorer=JMSmoothing --landa=0.953 $queryPath > $runPath/runJMS-9.txt
+# --runs+$runPath/runDri-01.txt \
+# --runs+$runPath/runDri-02.txt \
+# --runs+$runPath/runDri-03.txt \
+# --runs+$runPath/runDri-04.txt \
+# --runs+$runPath/runDri-05.txt \
+# --runs+$runPath/runDri-06.txt \
+# --runs+$runPath/runDri-07.txt \
+# --runs+$runPath/runDri-08.txt \
+# --runs+$runPath/runDri-09.txt \
+# --runs+$runPath/runDri-10.txt \
+# --runs+$runPath/runDri-11.txt \
+# --runs+$runPath/runDri-12.txt \
+# --runs+$runPath/runDri-13.txt \
+# --runs+$runPath/runDri-1a.txt \
+# --runs+$runPath/runDri-1b.txt \
+# --runs+$runPath/runDri-14.txt \
+# --runs+$runPath/runDri-15.txt \
+# --runs+$runPath/runDri-16.txt \
+# --runs+$runPath/runDri-17.txt \
+# --runs+$runPath/runDri-18.txt \
+# --runs+$runPath/runDri-19.txt \
+# --runs+$runPath/runDri-20.txt \

@@ -1,0 +1,46 @@
+{
+  "corpus" : true,
+  "corpusParameters" : {
+    "blockSize" : 512,
+    "filename" : "/home/mahdi/Documents/bazyabi/Resources/indexFile/corpus",
+    "mergerClass" : "org.lemurproject.galago.core.index.merge.CorpusMerger",
+    "readerClass" : "org.lemurproject.galago.core.index.corpus.CorpusReader",
+    "tokenizer" : {
+      "fields" : [ "text" , "head"],
+      "formats" : {
+        "head" : "string",
+        "text" : "string"
+      }
+    },
+    "writerClass" : "org.lemurproject.galago.core.index.corpus.CorpusFolderWriter"
+  },
+  "fieldIndex" : true,
+  "fieldIndexParameters" : {
+    "nonStemmedPostings" : true,
+    "stemmedPostings" : true,
+    "stemmer" : [ "porter"]
+  },
+  "fileType" : "trectext",
+  "galagoVersion" : "3.16",
+  "galagoVersionBuildDateTime" : "2023-10-24 18:14",
+  "indexBuildDateTime" : "2023-11-09 14:01",
+  "indexPath" : "/home/mahdi/Documents/bazyabi/Resources/indexFile",
+  "inputPath" : [ "/home/mahdi/Documents/bazyabi/Resources/0-Corpus/documents.trectxt"],
+  "nonStemmedPostings" : true,
+  "server" : true,
+  "skipDistance" : 500,
+  "skipping" : true,
+  "stemmedCounts" : false,
+  "stemmedPostings" : true,
+  "stemmer" : [ "porter"],
+  "stemmerClass" : {
+    "porter" : "org.lemurproject.galago.core.parse.stem.Porter2Stemmer"
+  },
+  "tokenizer" : {
+    "fields" : [ "text" , "head"],
+    "formats" : {
+      "head" : "string",
+      "text" : "string"
+    }
+  }
+}

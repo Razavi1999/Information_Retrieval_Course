@@ -1,0 +1,360 @@
+{
+    "queries": [
+        {
+            "number": "1",
+            "text": "what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft ."
+        },
+        {
+            "number": "2",
+            "text": "what are the structural and aeroelastic problems associated with flight of high speed aircraft ."
+        },
+        {
+            "number": "4",
+            "text": "what problems of heat conduction in composite slabs have been solved so far ."
+        },
+        {
+            "number": "8",
+            "text": "can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium ."
+        },
+        {
+            "number": "12",
+            "text": "is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack ."
+        },
+        {
+            "number": "13",
+            "text": "what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack."
+        },
+        {
+            "number": "18",
+            "text": "are real-gas transport properties for air available over a wide range of enthalpies and densities ."
+        },
+        {
+            "number": "23",
+            "text": "how can the aerodynamic performance of channel flow ground effect machines be calculated ."
+        },
+        {
+            "number": "29",
+            "text": "material properties of photoelastic materials ."
+        },
+        {
+            "number": "32",
+            "text": "can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem ."
+        },
+        {
+            "number": "34",
+            "text": "does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results ."
+        },
+        {
+            "number": "35",
+            "text": "has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions ."
+        },
+        {
+            "number": "39",
+            "text": "why does the compressibility transformation fail to correlate the high speed data for helium and air ."
+        },
+        {
+            "number": "40",
+            "text": "did anyone else discover that the turbulent skin friction is not over sensitive to the nature of the variation of the viscosity with temperature ."
+        },
+        {
+            "number": "50",
+            "text": "does a practical flow follow the theoretical concepts for the interaction between adjacent blade rows of a supersonic cascade ."
+        },
+        {
+            "number": "51",
+            "text": "what is a single approximate formula for the displacement thickness of a laminar boundary layer in compressible flow on a flat plate ."
+        },
+        {
+            "number": "53",
+            "text": "what application has the linear theory design of curved wings ."
+        },
+        {
+            "number": "56",
+            "text": "what size of end plate can be safely used to simulate two-dimensional flow conditions over a bluff cylindrical body of finite aspect ratio ."
+        },
+        {
+            "number": "57",
+            "text": "to find an approximate correction for thickness in slender thin-wing theory ."
+        },
+        {
+            "number": "58",
+            "text": "how do interference-free longitudinal stability measurements (made using free-flight models) compare with similar measurements made in a low-blockage wind tunnel ."
+        },
+        {
+            "number": "62",
+            "text": "has anyone investigated relaxation effects on gaseous heat transfer to a suddenly heated wall ."
+        },
+        {
+            "number": "66",
+            "text": "are there any theoretical methods for predicting base pressure ."
+        },
+        {
+            "number": "68",
+            "text": "how can one detect transition phenomena in boundary layers ."
+        },
+        {
+            "number": "69",
+            "text": "how can one detect transition phenomena in hypersonic wakes ."
+        },
+        {
+            "number": "72",
+            "text": "what is a criterion that the transonic flow around an airfoil with a round leading edge be validly analyzed by the linearized transonic flow theory ."
+        },
+        {
+            "number": "74",
+            "text": "can the transonic flow around an arbitrary smooth thin airfoil be analysed in a simple approximate way ."
+        },
+        {
+            "number": "82",
+            "text": "what are the existing solutions for hypersonic viscous interactions over an insulated flat plate ."
+        },
+        {
+            "number": "83",
+            "text": "what controls leading-edge attachment at transonic speeds ."
+        },
+        {
+            "number": "84",
+            "text": "can the three-point boundary-value problem for the blasius equation be integrated numerically,  using suitable transformations,  without iteration on the boundary conditions ."
+        },
+        {
+            "number": "85",
+            "text": "what are the effects of small amounts of gas rarefaction on the characteristics of the boundary layers on slender bodies of revolution ."
+        },
+        {
+            "number": "87",
+            "text": "what is the available information pertaining to the effect of slight rarefaction on boundary layer flows (the ?slip? effect) ."
+        },
+        {
+            "number": "94",
+            "text": "how is the heat transfer downstream of the mass transfer region effected by mass transfer at the nose of a blunted cone ."
+        },
+        {
+            "number": "97",
+            "text": "to what extent can readily available steady-state aerodynamic data be utilized to predict lifting-surface flutter characteristics ."
+        },
+        {
+            "number": "98",
+            "text": "what are the significant steady and non-steady flow characteristics which affect the flutter mechanism ."
+        },
+        {
+            "number": "99",
+            "text": "is it possible to determine rates of forced convective heat transfer from heated cylinders of non-circular cross-section,  (the fluid flow being along the generators) ."
+        },
+        {
+            "number": "100",
+            "text": "how much is known about boundary layer flows along non-circular cylinders ."
+        },
+        {
+            "number": "101",
+            "text": "is there any simple,  but practical,  method for numerical integration of the mixing problem (i.e. the blasius problem with three-point boundary conditions) ."
+        },
+        {
+            "number": "103",
+            "text": "how far around a cylinder and under what conditions of flow,  if any, is the velocity just outside of the boundary layer a linear function of the distance around the cylinder ."
+        },
+        {
+            "number": "104",
+            "text": "where can i find pressure data on surfaces of swept cylinders ."
+        },
+        {
+            "number": "105",
+            "text": "can't the static deflection shapes be used in predicting flutter in place of vibrational shapes . if so,  can we provide a justification by means of an example ."
+        },
+        {
+            "number": "109",
+            "text": "what possible techniques are available for computing the injection distribution corresponding to an isothermal transpiration cooled hemisphere ."
+        },
+        {
+            "number": "113",
+            "text": "what has been done about viscous interactions in relatively low reynolds number flows,  particularly at high mach numbers ."
+        },
+        {
+            "number": "116",
+            "text": "how significant is the possible pressure of a dissociated free stream with respect to the realization of hypersonic simulation in high enthalpy wind tunnels ."
+        },
+        {
+            "number": "118",
+            "text": "do the discrepancies among current analyses of the vorticity effect on stagnation-point heat transfer result primarily from the differences in the viscosity-temperature law assumed ."
+        },
+        {
+            "number": "120",
+            "text": "how close is the comparison of the shock layer theory with existing experiments in the low reynolds number (merged-layer) regime ."
+        },
+        {
+            "number": "121",
+            "text": "has anyone explained the kink in the surge line of a multi-stage axial compressor ."
+        },
+        {
+            "number": "126",
+            "text": "what are wind-tunnel corrections for a two-dimensional aerofoil mounted off-centre in a tunnel ."
+        },
+        {
+            "number": "128",
+            "text": "how do kuchemann's and multhopp's methods for calculating lift distributions on swept wings in subsonic flow compare with each other and with experiment ."
+        },
+        {
+            "number": "130",
+            "text": "what is the present state of the theory of quasi-conical flows ."
+        },
+        {
+            "number": "131",
+            "text": "references on the methods available for accurately estimating aerodynamic heat transfer to conical bodies for both laminar and turbulent flow ."
+        },
+        {
+            "number": "133",
+            "text": "can a satisfactory experimental technique be developed for measuring oscillatory derivatives on slender sting-mounted models in supersonic wind tunnels ."
+        },
+        {
+            "number": "137",
+            "text": "how is the flow at transonic speeds about a delta wing different from that on a closely-related tapered sweptback wing ."
+        },
+        {
+            "number": "140",
+            "text": "given complete freedom in the design of an airplane,  what procedure would be used in order to minimize sonic boom intensity,  and is there a limit to the degree of minimizing that can be accomplished ."
+        },
+        {
+            "number": "141",
+            "text": "can methane-air combustion product be used as a hypersonic test medium and predict, within experimental accuracies, the results obtained in air ."
+        },
+        {
+            "number": "145",
+            "text": "has anyone investigated the unsteady lift distributions on finite wings in subsonic flow ."
+        },
+        {
+            "number": "146",
+            "text": "what information is available for dynamic response of airplanes to gusts  or blasts in the subsonic regime ."
+        },
+        {
+            "number": "149",
+            "text": "what are the effects of initial imperfections on the elastic buckling of cylindrical shells under axial compression ."
+        },
+        {
+            "number": "153",
+            "text": "is the information on the buckling of sandwich sphere available ."
+        },
+        {
+            "number": "155",
+            "text": "what is the effect of an internal liquid column on the breathing vibrations of a cylindrical shell ."
+        },
+        {
+            "number": "156",
+            "text": "experimental techniques in shell vibration ."
+        },
+        {
+            "number": "157",
+            "text": "in summarizing theoretical and experimental work on the behaviour of a typical aircraft structure in a noise environment is it possible to develop a design procedure ."
+        },
+        {
+            "number": "158",
+            "text": "what data is there on the fatigue of structures under acoustic loading ."
+        },
+        {
+            "number": "160",
+            "text": "panels subjected to aerodynamic heating ."
+        },
+        {
+            "number": "170",
+            "text": "is there any information on how the addition of a /boat-tail/ affects the normal force on the body of various angles of incidence ."
+        },
+        {
+            "number": "171",
+            "text": "what are the aerodynamic interference effects on the fin lift and body lift of a fin-body combination ."
+        },
+        {
+            "number": "173",
+            "text": "what is the effect of initial axisymmetric deviations from circularity on the non linear (large-deflection) load-deflection response of cylinders under hydrostatic pressure ."
+        },
+        {
+            "number": "175",
+            "text": "are previous analyses of circumferential thermal buckling of circular cylindrical shells unnecessarily involved or even inaccurate due to the assumed forms of buckling mode ."
+        },
+        {
+            "number": "176",
+            "text": "what papers are there dealing with circumferential buckling either thermal buckling or due to mechanical loading ."
+        },
+        {
+            "number": "183",
+            "text": "jet interference with supersonic flow  -dash experimental papers ."
+        },
+        {
+            "number": "184",
+            "text": "thrust vector control by fluid injection -dash papers ."
+        },
+        {
+            "number": "189",
+            "text": "has anyone programmed a pump design method for a high-speed digital computer ."
+        },
+        {
+            "number": "196",
+            "text": "what are the flutter characteristics of the exposed skin panels of the x-15 vertical stabilizer when subjected to aerodynamic heating ."
+        },
+        {
+            "number": "200",
+            "text": "what agreement is found between theoretically predicted instability times and experimentally measured collapse times for compressed columns in creep ."
+        },
+        {
+            "number": "201",
+            "text": "theoretical studies of creep buckling ."
+        },
+        {
+            "number": "203",
+            "text": "is it possible to correlate the results on the creep buckling of widely different structures within the framework of a single theory ."
+        },
+        {
+            "number": "204",
+            "text": "what are the experimental results for the creep buckling of columns ."
+        },
+        {
+            "number": "209",
+            "text": "has the effect of the change of initial pressure due to deformation,  on the frequencies of vibration of circular cylindrical shells been investigated ."
+        },
+        {
+            "number": "210",
+            "text": "what are the discontinuity stresses at junctions in pressurized structures ."
+        },
+        {
+            "number": "211",
+            "text": "what analytical solutions are available for stresses in edge-loaded shells of revolution ."
+        },
+        {
+            "number": "212",
+            "text": "what dome contours minimize discontinuity stresses when used as closures on cylindrical pressure vessels ."
+        },
+        {
+            "number": "213",
+            "text": "what general solutions for the stresses in pressurized shells of revolution are available ."
+        },
+        {
+            "number": "214",
+            "text": "can studies of pure membrane cylinders having no wall bending stiffness but maintaining their shape by virtue of internal pressure provide any insight into the behaviour of pressurized cylinders with finite wall stiffness ."
+        },
+        {
+            "number": "215",
+            "text": "what are the best experimental data and classical small deflection theory analyses available for pressurized cylinders in bending ."
+        },
+        {
+            "number": "217",
+            "text": "what are the equations which define the stability of simply supported corrugated core sandwich cylinders ."
+        },
+        {
+            "number": "218",
+            "text": "papers on small deflection theory for buckling of sandwich cylinders ."
+        },
+        {
+            "number": "219",
+            "text": "has anyone developed an analysis which accurately establishes the large deflection behaviour of conical shells ."
+        },
+        {
+            "number": "223",
+            "text": "what is the magnitude of second-order wing-body interference at high supersonic mach number ."
+        },
+        {
+            "number": "224",
+            "text": "what is the best theoretical method for calculating pressure on the surface of a wing alone ."
+        },
+        {
+            "number": "225",
+            "text": "how can the effect of the boundary-layer on wing pressure be calculated, and what is its magnitude ."
+        }
+    ]
+}
